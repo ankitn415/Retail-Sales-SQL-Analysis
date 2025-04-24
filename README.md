@@ -36,6 +36,6 @@ The dataset contains retail transaction details such as:
 📁 Retail-Sales-SQL-Analysis
 │
 ├── 📄 retail_sales_dataset.csv         # Original dataset
-├── 📄 retail_sales.sql         # Full SQL script with analysis and optimization
+├── 📄 Retail_sales.sql         # Full SQL script with analysis and optimization
 └── 📄 README.md                         # Project overview
 
